@@ -23,4 +23,4 @@ It then creates a new PDF file with the translated content and names it using th
 In your terminal, navigate to the project folder and execute the following command (replace `<file_path>` and `<target-language>` with actual values):
 
 ```shell
-java -jar deepl-connector-0.0.1-SNAPSHOT.jar <file_path> <target-language>
+java -jar deepl-connector-0.0.1.jar <file_path> <target-language>
