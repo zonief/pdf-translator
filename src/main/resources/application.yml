@@ -1,0 +1,6 @@
+webclient:
+  url: "https://api-free.deepl.com/v2/"
+  apikey: "YOUR_API_KEY"
+spring:
+  main:
+    web-application-type: none
